@@ -1,0 +1,4 @@
+artifacts/classification/best_convnext_small.pt
+artifacts/classification/best_efficientnet_b3.pt
+artifacts/classification/best_efficientnetv2_m.pt
+artifacts/segmentation/best_unet.pt

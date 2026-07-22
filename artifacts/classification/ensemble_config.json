@@ -1,0 +1,13 @@
+{
+  "member_names": [
+    "efficientnet_b3",
+    "convnext_small",
+    "efficientnetv2_m"
+  ],
+  "weights": [
+    0.18800500019680985,
+    0.3438782213142689,
+    0.46811677848892136
+  ],
+  "tta_enabled": true
+}

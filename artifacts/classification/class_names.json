@@ -1,0 +1,13 @@
+{
+  "class_names": [
+    "MEL",
+    "NV",
+    "BCC",
+    "AK",
+    "BKL",
+    "DF",
+    "VASC",
+    "SCC"
+  ],
+  "melanoma_index": 0
+}
